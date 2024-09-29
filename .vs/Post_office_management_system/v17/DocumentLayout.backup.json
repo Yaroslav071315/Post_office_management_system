@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Student\\Post_office_management_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|e:\\student\\post_office_management_system\\post_office_managemant_system.data\\models\\serviceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|solutionrelative:post_office_managemant_system.data\\models\\serviceobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|e:\\student\\post_office_management_system\\post_office_managemant_system.data\\models\\postoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|solutionrelative:post_office_managemant_system.data\\models\\postoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|e:\\student\\post_office_management_system\\post_office_managemant_system.data\\models\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|solutionrelative:post_office_managemant_system.data\\models\\parcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|e:\\student\\post_office_management_system\\post_office_managemant_system.data\\models\\headpostoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|solutionrelative:post_office_managemant_system.data\\models\\headpostoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|e:\\student\\post_office_management_system\\post_office_managemant_system.data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|solutionrelative:post_office_managemant_system.data\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|e:\\student\\post_office_management_system\\post_office_managemant_system.data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|solutionrelative:post_office_managemant_system.data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|e:\\student\\post_office_management_system\\post_office_managemant_system.data\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|solutionrelative:post_office_managemant_system.data\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|e:\\student\\post_office_management_system\\post_office_managemant_system.data\\post_office_managemant_system.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{564F893F-ADD6-4228-ABFA-190FB3D306FA}|Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj|solutionrelative:post_office_managemant_system.data\\post_office_managemant_system.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}|Post_office_management_system\\Post_office_management_system.csproj|e:\\student\\post_office_management_system\\post_office_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}|Post_office_management_system\\Post_office_management_system.csproj|solutionrelative:post_office_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}|Post_office_management_system\\Post_office_management_system.csproj|E:\\Student\\Post_office_management_system\\post_office_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}|Post_office_management_system\\Post_office_management_system.csproj|solutionrelative:post_office_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}|Post_office_management_system\\Post_office_management_system.csproj|e:\\student\\post_office_management_system\\post_office_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}|Post_office_management_system\\Post_office_management_system.csproj|solutionrelative:post_office_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeadPostOffice.cs",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\HeadPostOffice.cs",
+              "RelativeDocumentMoniker": "Post_office_managemant_system.Data\\Models\\HeadPostOffice.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\HeadPostOffice.cs",
+              "RelativeToolTip": "Post_office_managemant_system.Data\\Models\\HeadPostOffice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:55:20.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Post_office_managemant_system.Data\\Models\\Employee.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\Employee.cs",
+              "RelativeToolTip": "Post_office_managemant_system.Data\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:51:50.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceObject.cs",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\ServiceObject.cs",
+              "RelativeDocumentMoniker": "Post_office_managemant_system.Data\\Models\\ServiceObject.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\ServiceObject.cs",
+              "RelativeToolTip": "Post_office_managemant_system.Data\\Models\\ServiceObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:24:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostOffice.cs",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\PostOffice.cs",
+              "RelativeDocumentMoniker": "Post_office_managemant_system.Data\\Models\\PostOffice.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\PostOffice.cs",
+              "RelativeToolTip": "Post_office_managemant_system.Data\\Models\\PostOffice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:24:51.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parcel.cs",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\Parcel.cs",
+              "RelativeDocumentMoniker": "Post_office_managemant_system.Data\\Models\\Parcel.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\Parcel.cs",
+              "RelativeToolTip": "Post_office_managemant_system.Data\\Models\\Parcel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:24:41.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Post_office_managemant_system.Data\\Models\\Client.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\Client.cs",
+              "RelativeToolTip": "Post_office_managemant_system.Data\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:24:35.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post_office_managemant_system.Data",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj",
+              "RelativeDocumentMoniker": "Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj",
+              "RelativeToolTip": "Post_office_managemant_system.Data\\Post_office_managemant_system.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T08:23:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.cs",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Post_office_managemant_system.Data\\Models\\City.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_managemant_system.Data\\Models\\City.cs",
+              "RelativeToolTip": "Post_office_managemant_system.Data\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:24:01.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_management_system\\Program.cs",
+              "RelativeDocumentMoniker": "Post_office_management_system\\Program.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_management_system\\Program.cs",
+              "RelativeToolTip": "Post_office_management_system\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:15:21.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_management_system\\Form1.cs",
+              "RelativeDocumentMoniker": "Post_office_management_system\\Form1.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_management_system\\Form1.cs",
+              "RelativeToolTip": "Post_office_management_system\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA7wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:07:40.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Student\\Post_office_management_system\\Post_office_management_system\\Form1.cs",
+              "RelativeDocumentMoniker": "Post_office_management_system\\Form1.cs",
+              "ToolTip": "E:\\Student\\Post_office_management_system\\Post_office_management_system\\Form1.cs [Design]",
+              "RelativeToolTip": "Post_office_management_system\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:04:52.403Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 21,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

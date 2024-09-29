@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Post_office_management_system", "Post_office_management_system\Post_office_management_system.csproj", "{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post_office_managemant_system.Data", "Post_office_managemant_system.Data\Post_office_managemant_system.Data.csproj", "{564F893F-ADD6-4228-ABFA-190FB3D306FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55379E5-DDC7-41A3-BBF2-D0AE6BA4862B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564F893F-ADD6-4228-ABFA-190FB3D306FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564F893F-ADD6-4228-ABFA-190FB3D306FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564F893F-ADD6-4228-ABFA-190FB3D306FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564F893F-ADD6-4228-ABFA-190FB3D306FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C1870C-F2AD-4A56-BC31-54CFB682F9BC}
+	EndGlobalSection
+EndGlobal
