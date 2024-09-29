@@ -13,17 +13,9 @@ namespace Post_office_managemant_system.Data
         public DateTime DateCome { get; set; }
         public decimal Price { get; set; }
 
-        // FK for conection with PostOffice
-        public int PostOfficeId { get; set; } // Foreign key
+        // Foreign key to PostOffice
+        public int PostOfficeId { get; set; }
         public PostOffice PostOfficeSend { get; set; }
         public PostOffice PostOfficeCome { get; set; }
-
-        public Parcel(int weight, DateTime dateSend, DateTime dateCome, decimal price)
-        {
-            Weight = weight;
-            DateSend = dateSend;
-            DateCome = dateCome;
-            Price = price;
-        }
     }
 }

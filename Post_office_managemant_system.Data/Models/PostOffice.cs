@@ -7,16 +7,25 @@ using System.Threading.Tasks;
 
 namespace Post_office_managemant_system.Data
 {
+    using System;
+    using System.Collections.Generic;
+
     public class PostOffice : ServiceObject
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Adress { get; set; }
+        public string Address { get; set; }
+
+        // One-to-many relationship with Parcel
         public List<Parcel> Parcels { get; set; } = new List<Parcel>();
+
+        // One-to-one relationship with HeadPostOffice
         public HeadPostOffice HeadPostOffice { get; set; }
+
+        // One-to-many relationship with Employee
         public List<Employee> Employees { get; set; } = new List<Employee>();
 
-        //FK for conection with City Зовнішній ключ для зв'язку з City
+        // Foreign key to City
         public int CityId { get; set; }
         public City City { get; set; }
     }
